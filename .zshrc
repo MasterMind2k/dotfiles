@@ -66,6 +66,7 @@ ZSH_THEME="gentoo"
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
 ZSH_TMUX_AUTOSTART=true
+ZSH_TMUX_AUTOCONNECT=false
 
 # Which plugins would you like to load?
 # Standard plugins can be found in ~/.oh-my-zsh/plugins/*
