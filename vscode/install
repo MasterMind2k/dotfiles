@@ -1,0 +1,6 @@
+# On linux
+ln -s ~/.dotfiles/vscode/keybindings.json ~/.config/Code/User/
+ln -s ~/.dotfiles/vscode/settings.json ~/.config/Code/User/
+# On mac:
+~/Library/Application Support/Code/User/keybindings.json
+~/Library/Application Support/Code/User/settings.json

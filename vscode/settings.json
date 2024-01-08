@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "update.mode": "none",
+  "omnisharp.enableRoslynAnalyzers": true,
+  "gitlens.views.commits.showBranchComparison": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "git.allowForcePush": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+}

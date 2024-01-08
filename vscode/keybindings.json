@@ -1,0 +1,19 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+0",
+        "command": "workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "shift+alt+0",
+        "command": "workbench.action.toggleAuxiliaryBar"
+    },
+    {
+        "key": "ctrl+k",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+shift+k",
+        "command": "workbench.action.showCommands"
+    }
+]
