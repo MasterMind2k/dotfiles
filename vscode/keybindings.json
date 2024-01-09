@@ -15,5 +15,10 @@
     {
         "key": "ctrl+shift+k",
         "command": "workbench.action.showCommands"
+    },
+    {
+        "key": "escape",
+        "command": "workbench.action.closePanel",
+        "when": "activePanel != ''"
     }
 ]

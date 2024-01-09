@@ -8,4 +8,7 @@
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
+  "gitlens.ai.experimental.generateCommitMessage.enabled": false,
+  "terminal.integrated.hideOnStartup": "always",
+  "gitlens.terminalLinks.showDetailsView": false,
 }
