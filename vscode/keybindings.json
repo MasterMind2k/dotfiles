@@ -20,5 +20,77 @@
         "key": "escape",
         "command": "workbench.action.closePanel",
         "when": "activePanel != ''"
+    },
+    {
+        "key": "shift+alt+t alt+a",
+        "command": "testing.runAll"
+    },
+    {
+        "key": "shift+alt+[Comma] a",
+        "command": "-testing.runAll"
+    },
+    {
+        "key": "shift+cmd+[Comma] a",
+        "command": "-testing.runAll"
+    },
+    {
+        "key": "shift+alt+t alt+f",
+        "command": "testing.reRunFailTests"
+    },
+    {
+        "key": "shift+alt+[Comma] e",
+        "command": "-testing.reRunFailTests"
+    },
+    {
+        "key": "shift+cmd+[Comma] e",
+        "command": "-testing.reRunFailTests"
+    },
+    {
+        "key": "shift+alt+t alt+c",
+        "command": "testing.runCurrentFile",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+[Comma] f",
+        "command": "-testing.runCurrentFile",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+cmd+[Comma] f",
+        "command": "-testing.runCurrentFile",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+t alt+x",
+        "command": "testing.runAtCursor",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+[Comma] c",
+        "command": "-testing.runAtCursor",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+cmd+[Comma] c",
+        "command": "-testing.runAtCursor",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+cmd+t cmd+a",
+        "command": "testing.runAll"
+    },
+    {
+        "key": "shift+cmd+t cmd+f",
+        "command": "testing.reRunFailTests"
+    },
+    {
+        "key": "shift+cmd+t cmd+x",
+        "command": "testing.runAtCursor",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+cmd+t cmd+c",
+        "command": "testing.runCurrentFile",
+        "when": "editorTextFocus"
     }
 ]
