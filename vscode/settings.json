@@ -11,4 +11,5 @@
   "gitlens.ai.experimental.generateCommitMessage.enabled": false,
   "terminal.integrated.hideOnStartup": "always",
   "gitlens.terminalLinks.showDetailsView": false,
+  "git.rebaseWhenSync": true,
 }
